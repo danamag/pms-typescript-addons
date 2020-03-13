@@ -17,7 +17,6 @@
     "ts-loader": "^6.2.1",
     "typescript": "^3.8.3",
     "@types/node": "^13.9.1",
-    "uglifyjs-webpack-plugin": "^2.2.0",
     "webpack": "^4.29.6",
     "webpack-node-externals": "^1.7.2"
   }
