@@ -1,6 +1,6 @@
 [
 	{
 		"repo": "sleeyax/stremio-addons",
-		"entry": "./packages/addons/redbox-tv/src/serverless.ts"
+		"entry": "./packages/addons/redbox-tv/src/index.ts"
 	}
 ]
